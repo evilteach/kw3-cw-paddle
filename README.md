@@ -1,19 +1,18 @@
 # README #
 
-* This is the repo for the KW3 CW Paddle, which is a cheap method of making a paddle for doing Mores Code.
+* This is the repo for the KW3 CW Paddle, which is a cheap paddle for doing Morse Code.
 * It is primarily of interest to Ham Radio Operators.
+* 
+* The file here are primarily the stl files needed to 3d print the various parts of the paddle.
 
-* The thingiverse site and this site are still under construction.
+* KW3 © 2024 by EvilTeach is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
-### It is visible here ###
+### Downloadable files, and some assembly instructions can be found on Thingiverse ###
 
 * [Thingiverse Site](https://www.thingiverse.com/thing:6671655)
 
 ### TODO: faq ###
 
-TODO - How to set up a FAQ.
 
-### Who do I talk to? ###
 
-TODO - How to set up Issue reporting.
 
